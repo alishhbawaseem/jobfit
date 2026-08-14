@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-community
+langchain-chroma==0.1.4
+chromadb==0.5.23
+pypdf
+python-dotenv
+streamlit
+numpy<2
